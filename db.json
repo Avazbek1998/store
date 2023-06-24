@@ -47,30 +47,6 @@
       "title": "Iphone 13",
       "price": "$1500",
       "id": 8
-    },
-        {
-      "img": "/public/smartphones/phone1.png",
-      "title": "Iphone 10",
-      "price": "$980",
-      "id": 9
-    },
-    {
-      "img": "/public/smartphones/phone2.png",
-      "title": "Iphone 11",
-      "price": "$1100",
-      "id": 10
-    },
-    {
-      "img": "/public/smartphones/phone3.png",
-      "title": "Iphone 8",
-      "price": "$780",
-      "id": 11
-    },
-    {
-      "img": "/public/smartphones/phone4.png",
-      "title": "Iphone 13",
-      "price": "$1500",
-      "id": 12
     }
   ],
   "smartwatch": [
@@ -121,30 +97,6 @@
       "title": "Black watch",
       "price": "$650",
       "id": 8
-    },
-        {
-      "img": "/public/smartwatchs/watch1.png",
-      "title": "Pink watch",
-      "price": "$870",
-      "id": 9
-    },
-    {
-      "img": "/public/smartwatchs/watch2.png",
-      "title": "Heavy watch",
-      "price": "$680",
-      "id": 10
-    },
-    {
-      "img": "/public/smartwatchs/watch3.png",
-      "title": "Spotted watch",
-      "price": "$750",
-      "id": 11
-    },
-    {
-      "img": "/public/smartwatchs/watch4.png",
-      "title": "Black watch",
-      "price": "$650",
-      "id": 12
     }
   ]
 }
